@@ -1,0 +1,12 @@
+*{
+	margin: 10px;
+	background-color: #fcb7af;
+}
+#main, h1, button, input{
+	border: 2px solid black;
+	margin: 20px;
+	background-color: #7dd5ff;
+	font-weight: bold;
+	color: #d74600;
+	text-align:center;
+}
